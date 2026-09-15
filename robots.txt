@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samkwee-hub.github.io/special-needs-trust-sam-kwee/sitemap.xml
